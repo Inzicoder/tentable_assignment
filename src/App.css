@@ -1,0 +1,27 @@
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app__title {
+  color: #1c0b46;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.question {
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+
+
+
+
+.restart-button{
+  margin-top: 20px;
+  width: 100px;
+}
